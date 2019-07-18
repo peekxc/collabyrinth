@@ -1,0 +1,2 @@
+# collabyrinth
+Labyrinth generator 
