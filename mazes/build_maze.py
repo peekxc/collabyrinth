@@ -2,6 +2,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import numpy as np
 import random
+from matplotlib import cm
 
 def new_room(dim = None):
     if not dim:
